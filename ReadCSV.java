@@ -2,7 +2,7 @@ package com.hendi.main;
 
 import static com.hendi.main.Quickstart.input;
 import static com.hendi.main.Quickstart.prop;
-import com.hendi.model.NBP;
+import com.hendi.model.Shinobi;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
